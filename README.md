@@ -5,7 +5,7 @@
 1.  Only Admin users can do the CRUD operation.
 ![Noaccess](https://github.com/sharmaakshansh/Stats/assets/121374240/3803a7b3-0f0e-4194-9870-a786c931a99e)
 
-2a.Creating player
+2a.  Creating player
 
 ![Create](https://github.com/sharmaakshansh/Stats/assets/121374240/cedf39a7-429a-40c1-b54f-b77143942d33)
 
@@ -13,20 +13,32 @@
 
 ![After Create](https://github.com/sharmaakshansh/Stats/assets/121374240/ac0647cc-43d7-4004-bd77-f3fd8d3f334e)
 
-3a.Delete Player Details
+
+
+3a. Delete Player Details
+
 
 ![Delete](https://github.com/sharmaakshansh/Stats/assets/121374240/fcd8422d-575b-4e05-9b33-2507a69381f0)
 
+
+
 3b. Change in Database after deleting the only entry/data
+
 
 ![After Delete](https://github.com/sharmaakshansh/Stats/assets/121374240/a97bb4c6-2814-4f4f-94d8-e32d77431f78)
 
-4a. Update a Players detail
+
+
+4a.  Update a Players detail
+ 
  Name is changed from Virat Kohli to Rohit Sharma
+
 
 ![update P](https://github.com/sharmaakshansh/Stats/assets/121374240/8d58c459-3b9f-46b6-a918-672fb74fd940)
 
 4b. Change in database
+
+
 
 ![Update](https://github.com/sharmaakshansh/Stats/assets/121374240/5d758137-f687-4c95-9796-aa4df9575915)
 
@@ -46,7 +58,7 @@ Database
 
 5c. Get a List of players in sorted order whose average scores are more than Y. where Y is the number. If two players have the same average, then the older player will get the priority.
 
-In this case Chris Gail and Ishan kishan has same average i.e 100 so they are sorted on the bases af age average score i.e is passed is 99
+In this case Chris Gail and Ishan kishan has same average i.e 100 so they are sorted on the bases of age ,average score i.e is passed is 99
 
 ![GetbyAVg(1a)](https://github.com/sharmaakshansh/Stats/assets/121374240/4f5b06ba-6e6a-4fbf-8e84-604580e55736)
 
